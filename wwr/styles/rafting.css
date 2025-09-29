@@ -36,7 +36,6 @@ footer {
     padding-top: 1rem;
     padding-left: 32rem;
     padding-right: 18rem;
-    text-decoration: none;
 }
 footer img {
     height: 40px;
@@ -80,4 +79,7 @@ footer p {
     width: auto;
     float: right;
     padding-left: 1rem;
+}
+.socialmedia a {
+    text-decoration: none;
 }
