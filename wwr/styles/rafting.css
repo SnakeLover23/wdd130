@@ -36,6 +36,7 @@ footer {
     padding-top: 1rem;
     padding-left: 32rem;
     padding-right: 18rem;
+    text-decoration: none;
 }
 footer img {
     height: 40px;
@@ -62,9 +63,12 @@ footer p {
     color: var(--color2);
     left: 7rem;
 }
+.hero h2 {
+    text-align: center;
+}
 .hero article {
     position: absolute;
-    top: 6rem;
+    top: 5rem;
     background-color: var(--color1);
     color: var(--color2);
     margin: 1rem;
